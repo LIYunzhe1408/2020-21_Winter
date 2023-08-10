@@ -1,0 +1,14 @@
+tr {
+    height: 80px;   
+}                
+td {
+    font-size: 16px;
+    color: black;
+}
+caption{
+    color:brown;
+}
+
+.red{
+    color:red;
+}
